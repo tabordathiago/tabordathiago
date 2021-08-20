@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá, eu sou o Thiago Taborda 👋
 
-<!--
-**tabordathiago/tabordathiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho como Analista de Infraestrutura
+- 📚 Estou estudando as ferramentas Ansible, Docker and Gitlab
+- 😄 Pronouns: Ele/Dele
+- 🌱 Entuasiasta DevOps
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Ansible" height="30" width="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Zabbix" height="30" width="40" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tabordathiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
