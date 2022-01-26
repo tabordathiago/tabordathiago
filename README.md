@@ -1,7 +1,7 @@
 ### Olá, eu sou o Thiago Taborda 👋
 
 - 🔭 Atualmente trabalho como Analista de Infraestrutura
-- 📚 Estou estudando as ferramentas Ansible, Docker and Gitlab
+- 📚 Estou estudando Terraform, OCI and Docker
 - 😄 Pronouns: Ele/Dele
 - 🌱 Entuasiasta DevOps
 
