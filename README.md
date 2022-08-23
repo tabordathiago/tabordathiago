@@ -1,7 +1,6 @@
-### Olá, eu sou o Thiago Taborda 👋
-
-- 🔭 Atualmente trabalho como Analista de Infraestrutura
-- 📚 Estou estudando Terraform, OCI and Docker
+### **Olá, eu sou o Thiago Taborda** 👋
+- 🔭 Trabalho como DevOps em uma empresa de Logística/Rastreamento de frotas.
+- 📚 Atualmente estudando Terraform, Kubernetes and AWS Cloud.
 - 😄 Pronouns: Ele/Dele
 - 🌱 Entuasiasta DevOps
 
@@ -14,8 +13,3 @@
 </div>
 
 ##
-
- <div>
-  <a href="https://github.com/tabordathiago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tabordathiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
